@@ -9,7 +9,7 @@ Here are a few projects I have worked on:
 - [Haematopoeitic Stem Cells: Surface Marker Discovery](Github link): Analysed an index sorted single-cell surface transcriptome of murine haematopoeitic stem and progenitor cells, identifying a prospective surface marker for the identification of long-term haematopoeitic stem cells.   
 - [Bladder Cancer: Hypoxia Analysis](Github link): Performed differential expression analysis between normoxic and hypoxic urothelial tissue, highlighting key transcriptomic drivers of the disease phenotype observed in hypoxic urothelial cancer tissue. 
 - [The Cancer Genome Atlas: Bladder Cancer Variant Detection](Github link): Used TCGA WGS data to determine the transcriptomic impact of non-coding mutations in muscle invasive bladder cancer. 
-- [Atypical B-cells: Differentiation Timecourse Analysis](Github link): Generated a differentiation landscape for atypical B-cells (ABCs), providing a resource to determine genetic drivers of ABC generation in inflammatory diseases. 
+- [Atypical B-cells: Differentiation Timecourse Analysis](Github link): Generated a differentiation landscape for atypical B-cells (ABCs), providing a resource to determine genetic drivers of ABC accumulation in inflammatory diseases. 
 
 For my Masters project, I am planning to return to bladder cancer research with the [Mason Lab](https://asmasonomics.github.io/) where I will apply unsupervised machine learning to find clinically relevant and druggable subgroups of bladder cancer.   
 
